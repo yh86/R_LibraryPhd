@@ -1,0 +1,8 @@
+source('phdlib.r')
+source('clsf.r')
+source('clust.r')
+source('libgraphics.r')
+source('library.r')
+source('phdgraphics.r')
+source('phdpath.r')
+source('phdlib.r')
